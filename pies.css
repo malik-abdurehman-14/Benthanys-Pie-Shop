@@ -1,0 +1,50 @@
+.nav2{
+    background-color: rgb(194, 136, 88);
+   
+  }
+  .logoimg{
+    width: 200px;
+  }
+  .nav-link{
+    margin-left: 20px;
+    color: white;
+  }
+
+  .img1{
+    width:150px;
+    
+}
+.links1{
+    text-decoration: none;
+    color: rgb(194, 136, 88);
+}
+.imglist{
+    width: 70px;
+}
+table{
+    border: 1px solid black;
+    margin-right: 10px;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+.pricelist{
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.empty{
+    height: 200px;
+}
+.footer{
+    background-color:  rgb(236, 228, 229);
+    padding-bottom: 20px;
+}
+.footertext{
+    margin-left: 20px;
+}

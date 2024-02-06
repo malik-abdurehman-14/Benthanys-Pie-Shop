@@ -1,0 +1,36 @@
+.navbar2{
+    background-color:rgb(194, 136, 88) ;
+    justify-content: center;
+}
+.logoimg{
+    width: 200px;
+}
+ .nav-link{
+    margin-left: 20px;
+    color: white;
+  }
+  .container1{
+    padding-top: 110px;
+  }
+  .img1{
+    width:150px;
+  }
+  .links1{
+    text-decoration: none;
+    color: rgb(194, 136, 88);
+}
+.youtube{
+    height: 400px;
+    width: 100%;
+}
+.empty{
+    height: 300px;
+}
+.footer{
+    background-color:  rgb(236, 228, 229);
+    padding-bottom: 20px;
+    max-width: 100%;
+}
+.footertext{
+    margin-left: 20px;
+}
